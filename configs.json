@@ -1,0 +1,12 @@
+{
+  "websocket": {
+    "url": "wss://proxy2.wynd.network:4650/"
+  },
+  "settings": {
+    "user_id": "58648ec6-98db-4adc-a45b-xxxx",
+    "use_proxy": true
+  },
+  "network": {
+    "proxy_list": "proxies.txt"
+  }
+}
